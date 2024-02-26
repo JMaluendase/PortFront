@@ -1,0 +1,145 @@
+.reduce-ochenta {
+  transform: scale(0.8);
+}
+
+.reduce-setenta {
+  transform: scale(0.7);
+}
+
+.colorpanel {
+  background-color: #f1f2f2 !important;
+}
+
+
+.card {
+  display: flex;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.card-blue {
+  background-color: #3B82F6;
+}
+
+.card-green{
+  background-color: #16A34A;
+}
+
+.card-gray {
+  background-color: #475569;
+}
+
+.card-red {
+  background-color: #EF4444;
+}
+
+.card-orange{
+  background-color: #F59E0B;
+}
+
+.card-default {
+  background-color: #ffffff !important;
+}
+
+.centro {
+  max-width: 100% !important;
+  text-align: center !important;
+  align-items: center !important;
+  align-content: center !important;
+}
+
+.inferior {
+  max-width: 100% !important;
+  text-align: bottom !important;
+  align-items: bottom !important;
+  align-content: bottom !important;
+}
+
+.footer-login{
+  margin-top: 10px;
+  font-size: 0.8rem !important;
+}
+
+.centro-card{
+  text-align: center !important;
+}
+
+/* .bus-svg-icon {
+  background: url("@/assets/icons/my-icon.svg");
+
+  height: 30px;
+  width: 30px;
+} */
+
+.superior-10 {
+  padding-top: 10px;
+}
+
+
+
+.reduce-input {
+  font-size: 0.8rem !important;
+}
+
+.reduce-button {
+    font-size: 0.8rem !important;
+    padding: 0.5rem !important;
+  }
+
+
+  .border-example {
+    border: 3px solid #FF0000;
+  }
+
+  .label-user {
+    text-align: right;
+    background-color: #f1f2f2; 
+    /* background-color: #138939; */
+  }
+
+  .chart-center{
+    text-align: center;
+  }
+
+
+  .row {
+    display: flex;
+  }
+
+  .row-one {
+    display: flex;
+    align-items: flex-end !important;
+  }
+
+  .row-two {
+    display: flex;
+    align-items: flex-end !important;
+  }
+
+  .col-70 {
+    width: 80%;
+    display: flex;
+    align-items: flex-end !important;
+  }
+  
+  .col-30 {
+    width: 20%;
+  }
+
+  .text {
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+  .icon {
+    text-align: right;
+    color: white;
+  }
+  
+  .number {
+    
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
